@@ -1,5 +1,5 @@
 # Trackzy
-> A console application that helps you keep track of the employees in an organization along with features like sending appreciation mails to employees.
+> A console application that helps you keep track of the employee details in an organization along with features like sending appreciation mails to employees.
 
 # Features
 * Add Employee details
