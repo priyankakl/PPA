@@ -8,3 +8,4 @@
 * Update an Employee entry 
 * Send appreciation mail to specific employees
 
+> To execute the python job, run the following command in the console: python capstone_project1App.py
